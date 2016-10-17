@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\SCRIPTS\InventoryManager.cs">
+    <Files>
+      <File FileName="Assets\Resources\SCRIPTS\InventoryManager.cs" Line="357" Column="64" />
+      <File FileName="Assets\Resources\SCRIPTS\PickUpItem.cs" Line="52" Column="1" />
+      <File FileName="Assets\Resources\SCRIPTS\GameMaster.cs" Line="25" Column="5" />
+      <File FileName="Assets\Resources\SCRIPTS\PlayerLifeManager.cs" Line="58" Column="53" />
+      <File FileName="Assets\Resources\SCRIPTS\zombieAnim.cs" Line="38" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
