@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{858922F9-EDBF-5018-D870-A54A46ED547B}</ProjectGuid>
+    <ProjectGuid>{8602DC36-6FAA-0688-C449-B85EE5DC3332}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-Boo-Editor</AssemblyName>
@@ -107,40 +107,40 @@
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
  </Reference>
  <Reference Include="FontEdit">
- <HintPath>C:/Users/m4st3/Desktop/TestGame2/Assets/FontEdit/Editor/FontEdit.dll</HintPath>
+ <HintPath>C:/Users/m4st3/Desktop/UNITY/testgame1/Assets/FontEdit/Editor/FontEdit.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Data.Sqlite">
- <HintPath>C:/Users/m4st3/Desktop/TestGame2/Assets/Plugins/Mono.Data.Sqlite.dll</HintPath>
+ <HintPath>C:/Users/m4st3/Desktop/UNITY/testgame1/Assets/Plugins/Mono.Data.Sqlite.dll</HintPath>
  </Reference>
  <Reference Include="System.Data">
- <HintPath>C:/Users/m4st3/Desktop/TestGame2/Assets/Plugins/System.Data.dll</HintPath>
+ <HintPath>C:/Users/m4st3/Desktop/UNITY/testgame1/Assets/Plugins/System.Data.dll</HintPath>
  </Reference>
  <Reference Include="ProBuilderCore-Unity5">
- <HintPath>C:/Users/m4st3/Desktop/TestGame2/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
+ <HintPath>C:/Users/m4st3/Desktop/UNITY/testgame1/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="ProBuilderMeshOps-Unity5">
- <HintPath>C:/Users/m4st3/Desktop/TestGame2/Assets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
+ <HintPath>C:/Users/m4st3/Desktop/UNITY/testgame1/Assets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="KDTree">
- <HintPath>C:/Users/m4st3/Desktop/TestGame2/Assets/ProCore/ProBuilder/Classes/ClassesLib/KDTree.dll</HintPath>
+ <HintPath>C:/Users/m4st3/Desktop/UNITY/testgame1/Assets/ProCore/ProBuilder/Classes/ClassesLib/KDTree.dll</HintPath>
  </Reference>
  <Reference Include="Triangle">
- <HintPath>C:/Users/m4st3/Desktop/TestGame2/Assets/ProCore/ProBuilder/Classes/ClassesLib/Triangle.dll</HintPath>
+ <HintPath>C:/Users/m4st3/Desktop/UNITY/testgame1/Assets/ProCore/ProBuilder/Classes/ClassesLib/Triangle.dll</HintPath>
  </Reference>
  <Reference Include="ProBuilderEditor-Unity5">
- <HintPath>C:/Users/m4st3/Desktop/TestGame2/Assets/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity5.dll</HintPath>
+ <HintPath>C:/Users/m4st3/Desktop/UNITY/testgame1/Assets/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="RAIN">
- <HintPath>C:/Users/m4st3/Desktop/TestGame2/Assets/RAIN/RAIN.dll</HintPath>
+ <HintPath>C:/Users/m4st3/Desktop/UNITY/testgame1/Assets/RAIN/RAIN.dll</HintPath>
  </Reference>
  <Reference Include="RAINMetaform">
- <HintPath>C:/Users/m4st3/Desktop/TestGame2/Assets/RAIN/RAINMetaform.dll</HintPath>
+ <HintPath>C:/Users/m4st3/Desktop/UNITY/testgame1/Assets/RAIN/RAINMetaform.dll</HintPath>
  </Reference>
  <Reference Include="RAINEditor">
- <HintPath>C:/Users/m4st3/Desktop/TestGame2/Assets/RAIN/Editor/RAINEditor.dll</HintPath>
+ <HintPath>C:/Users/m4st3/Desktop/UNITY/testgame1/Assets/RAIN/Editor/RAINEditor.dll</HintPath>
  </Reference>
  <Reference Include="RAINMetaformEditor">
- <HintPath>C:/Users/m4st3/Desktop/TestGame2/Assets/RAIN/Editor/RAINMetaformEditor.dll</HintPath>
+ <HintPath>C:/Users/m4st3/Desktop/UNITY/testgame1/Assets/RAIN/Editor/RAINMetaformEditor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>D:/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -160,9 +160,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{5C8536AD-1EC5-105D-F361-B61ACDCCAC24}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{152DFCF1-2D0C-5FB4-C373-1A37B1C66964}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{61499B65-650C-9E88-F7FE-BCD2800E59CA}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{108AF111-AF75-C024-941F-2F688B96FD6E}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
